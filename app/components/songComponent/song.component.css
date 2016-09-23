@@ -1,0 +1,9 @@
+.song:hover{
+  background: rgba(66,139,202,0.5);
+  color: black;
+}
+
+.songName:hover, .download:hover{
+  cursor: pointer;
+
+}

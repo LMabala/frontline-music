@@ -1,0 +1,7 @@
+
+<li class="list-group-item song" [class.active]="track===playing">
+    <span (click)="change(true)" class="songName"> {{track.name}} </span>
+    <a href="{{track.downloadLink}}">
+      <span class="tag tag-default tag-pill pull-right glyphicon glyphicon-download-alt download"></span>
+    </a>
+</li>
