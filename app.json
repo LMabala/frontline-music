@@ -1,0 +1,7 @@
+{
+  "name":"FRNTLINEMusic",
+  "description":"Simple site",
+  "respository":"https://github.com/LMabala/frontline-music",
+  "keywords":["node","angular","static"],
+  "image":"heroku/nodejs"
+}
